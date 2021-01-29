@@ -19,7 +19,7 @@
 4. [Express-Handlebars](https://www.npmjs.com/package/express-handlebars) (版本使用 5.2.0) - 模板引擎
 5. [Nodemon](https://www.npmjs.com/package/nodemon) (版本使用 2.0.6) - 伺服器輔助
 6. [Body-Parser](https://www.npmjs.com/package/body-parser) (版本使用 1.19.0) - Node.js body parsing middleware
-7. [MySQL]](https://dev.mysql.com/downloads/windows/installer/) (版本使用 8.0.23) - 資料庫
+7. [MySQL](https://dev.mysql.com/downloads/windows/installer/) (版本使用 8.0.23) - 資料庫
 8. [sequelize-cli](https://www.npmjs.com/package/mongoose) (版本使用 6.2.0) - Sequelize 提供了一系列事先設定好的任務腳本，包括自動產生設定檔、載入種子資料、資料庫設定等功能
 9. [Method-Override](https://www.npmjs.com/package/method-override) (版本使用 3.0.0) - Express 的 middleware「中介軟體」
 10. [Express-Session](https://www.npmjs.com/package/express-session) (版本使用 1.17.1) - Express的「儲存認證結果」
